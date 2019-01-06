@@ -20,7 +20,7 @@ With Ionic CLI version 3, the use of third party templates was removed. Once you
 $ git remote add origin https://github.com/yuqi-code/Ionic2Parks
 $ git pull origin master --allow-unrelated-histories
 $ git commit -a -m "init"
-$ git push origin master
+$ git push origin master -f
 
 $ git tag -a s1_init -m "init" HEAD
 $ git push origin tag s1_init
