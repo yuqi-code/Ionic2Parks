@@ -25,3 +25,11 @@ $ git push origin master -f
 $ git tag -a s1_init -m "init" HEAD
 $ git push origin tag s1_init
 ```
+
+*s2_parkData
+
+```bash
+add parkData provider, load and display data
+add details page, passing data between pages
+
+```
