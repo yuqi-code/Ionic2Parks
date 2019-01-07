@@ -31,5 +31,11 @@ $ git push origin tag s1_init
 ```bash
 add parkData provider, load and display data
 add details page, passing data between pages
+```
 
+*s3_search
+
+```bash
+add ion-searchbar, theming, virtual-scrolling, custom list header 
+test in browser, android and ios emulators
 ```
